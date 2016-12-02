@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+    <explain>126</explain>
+	<url>http://www.126.com</url>
+	<null username="" password="">Please enter your email first!</null>
+	<pwad_null username="testingwtb" password=""></pwad_null>
+	<user_null username="" password="a123456">
+	</user_null>
+	<error username="xxx" password="xxx"></error>
+</info>
+
